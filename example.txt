@@ -2,9 +2,5 @@ Olá TJL08
 Tchau Unity
 Olá Godot
 Talvez Unreal
-00
-01
-10
-11
-
-Uma nova mudança
+Para de escrever binário
+Chega de mudanças
