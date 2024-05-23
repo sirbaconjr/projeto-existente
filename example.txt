@@ -2,9 +2,9 @@ Olá TJL08
 Tchau Unity
 Olá Godot
 Talvez Unreal
-00
-01
-10
-11
-
 Uma nova mudança
+00 -> 0
+01 -> 1
+10 -> 2
+11 -> 3
+
